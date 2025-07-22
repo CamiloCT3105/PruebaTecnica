@@ -51,6 +51,10 @@ DB_PASSWORD=juanca2003
 DB_NAME=crud_test
 PORT=3001
 
+### 5. Instalar base de datos
+
+-Instalar base de datos MySQL por medio de este link: https://dev.mysql.com/downloads/installer/
+
 ## 🧪 Funcionalidades
 
 ### 📂 Categorías:
